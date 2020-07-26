@@ -1,2 +1,3 @@
 # nutricionist_crud_patients
-Classic JavaScript exercise
+Classic JavaScript exercise.
+DOM's manipulation with JS.
